@@ -1,0 +1,24 @@
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Java
+*.class
+out/
+target/
+
+# C / C++
+*.o
+*.out
+*.exe
+a.out
+
+# JavaScript
+node_modules/
